@@ -1,4 +1,3 @@
-﻿   blog 
 
 How the Internet Works
 ======================
