@@ -1,3 +1,10 @@
+```
+# Google Doc Format
+
+Here is the Google Doc format for the Markdown text below:
+[Google Doc Link](https://docs.google.com/document/d/1Uvp4ZGju56xo2z0dlWy7jQnxyCFJ3JnqkGF-4YaWjKE/edit?usp=sharing)
+```
+
 # How the Internet Works
 
 The internet feels like magic. You type a web address, press enter, and within seconds, a website appears on your screen. But what really happens behind the scenes? Let’s dive into the fascinating journey of how the internet works, from your device to the world’s data centers and back.
