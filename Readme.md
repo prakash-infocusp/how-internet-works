@@ -1,9 +1,8 @@
-```
-# Google Doc Format
+# Google Doc Format  
 
-Here is the Google Doc format for the Md text below:
-[Google Doc Link](https://docs.google.com/document/d/1Uvp4ZGju56xo2z0dlWy7jQnxyCFJ3JnqkGF-4YaWjKE/edit?usp=sharing)
-```
+Here is the Google Doc format for the Markdown text below:  
+👉 [Google Doc Link](https://docs.google.com/document/d/1Uvp4ZGju56xo2z0dlWy7jQnxyCFJ3JnqkGF-4YaWjKE/edit?usp=sharing)
+
 
 # How the Internet Works
 
