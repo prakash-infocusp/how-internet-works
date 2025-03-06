@@ -127,4 +127,10 @@ Every time you browse the internet, a complex chain of events unfolds in millise
 
 The next time you visit a website, take a moment to appreciate the **invisible journey** that brings it to life, powered by technology both above ground and deep beneath the ocean! 🌊🔌
 
-blog.html Displaying blog.html.
+
+
+
+**Hastags**
+#Internet #HowInternetWorks #Technology #Networking
+
+**[Please Note]** - I am looking for similar images which are copyright free in place of current images 
